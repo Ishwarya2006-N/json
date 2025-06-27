@@ -2,10 +2,10 @@
   "name": "json",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "start": "npx json-server --watch db.json --port 10000"
-
-  },
+ "scripts": {
+  "start": "node server.js"
+}
+,
   "keywords": [],
   "author": "",
   "license": "ISC",
